@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Testing!
+...
 
-### More Information
+### Information
 
-More testing.
+A place for writing, rambling, documenting and doodling about my travel experiences :grinning:
+# Enjoy!
 
 ### Contact me
 
-[email@domain.com](mailto:mileslemmer@hotmail.co.uk)
+[mileslemmer@hotmail.co.uk](mailto:mileslemmer@hotmail.co.uk)

@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Miles Lemmer
+name: Miles L
 
 # Short bio or description (displayed in the header)
 description: Travel blog
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/ML0296
-  instagram:
-  linkedin:
+  github: ML0296
+  instagram: https://www.instagram.com/mileage19/
+  linkedin: https://www.linkedin.com/in/mileslemmer/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
