@@ -8,8 +8,8 @@ permalink: /about/
 
 ### Information
 
-A place for writing, rambling, documenting and doodling about my travel experiences :grinning:
-# Enjoy!
+A place for writing, rambling, documenting and doodling about my travel experiences.
+#### Enjoy!
 
 ### Contact me
 
